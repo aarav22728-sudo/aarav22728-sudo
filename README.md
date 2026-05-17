@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hey there 👋, I'm Aarav Thigal<h3 align="center">🚀 Hardware & Embedded Developer | 🌾 Drone enthusiast | 💡 Building Smart Systems</h3>
+<h1 align="center">⚡ Hey there 👋, I'm Aarav Thigale<h3 align="center">🚀 Hardware & Embedded Developer | 🌾 Drone enthusiast | 💡 Building Smart Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=FF61F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;I+build+real-world+hardware+solutions.;Precision+Agriculture+%F0%9F%8C%BE;Anime+%2B+Technology+%E2%9C%A8;Always+learning+new+technologies." />
